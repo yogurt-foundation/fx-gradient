@@ -13,12 +13,15 @@
 */
 /*! fx-gradient.css v1.0.0-proto | MIT License | gtihub.com/yogurt-foundation/fx-gradient */
 /**
- * @module: _modules.scss
+ * @module: _generator.scss
  *
- * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @repo: https://github.com/yogurt-foundation/fx-gradient
  * @author: Loouis Low (loouis@gmail.com)
  * @copyright: Loouis Low (loouis@gmail.com)
  * @license: MIT
+ */
+/**
+ * @module: _constants.scss
  */
 /* generator */
 .fx\:gradient\:warm-flame {
