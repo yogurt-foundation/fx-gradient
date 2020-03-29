@@ -1,0 +1,14 @@
+node_modules
+wiki
+
+*.DS_Store
+
+package-lock.json
+yarn.lock
+yarn-error.log
+
+.c9
+.vscode
+
+Thumbs.db
+Thumbs.db.encrypted

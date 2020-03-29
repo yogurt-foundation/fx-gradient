@@ -1,0 +1,30 @@
+/**
+ * @module: _modules.scss
+ *
+ * @repo: https://github.com/yogurt-foundation/yogurt-fx
+ * @author: Loouis Low (loouis@gmail.com)
+ * @copyright: Loouis Low (loouis@gmail.com)
+ * @license: MIT
+ */
+
+//
+// {FX}.css {gradient}
+//
+
+@import 'constants';
+
+/* generator */
+
+@mixin gradient($prefix, $pseudo, $class, $modifier, $value) {
+
+  #{$prefix}#{$class}fx\:gradient\:#{$modifier}#{$pseudo} {
+    background-image: linear-gradient(#{$value})
+  }
+
+}
+
+@each $modifier, $value in $variants {
+
+  @include gradient("", "", ".", $modifier, $value)
+
+}

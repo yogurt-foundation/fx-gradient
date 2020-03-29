@@ -1,0 +1,30 @@
+{
+  "name": "fx-gradient",
+  "version": "1.0.0",
+  "description": "A library where you can play with a collection of pre-made CSS gradient.",
+  "main": "",
+  "scripts": {
+    "gulp": "gulp",
+    "watch": "gulp watch",
+    "build": "npm run gulp sass"
+  },
+  "keywords": [
+    "css-animation-library",
+    "css-filter-library",
+    "special-effects"
+  ],
+  "author": "Loouis Low <loouis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.4.3",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-util": "^3.0.8"
+  },
+  "dependencies": {}
+}
