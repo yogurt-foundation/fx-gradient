@@ -38,6 +38,11 @@ Below are my special collection of css gradient over the years of making web des
 
 ---
 
+<p align="left">
+  <img src="assets/screenshot_01.png" height="auto" wdith="auto">
+  <img src="assets/screenshot_02.png" height="auto" wdith="auto">
+</p>
+
 ## _introduction
 
 > **(!!)** there are so much to do to make the class name easy to use.
