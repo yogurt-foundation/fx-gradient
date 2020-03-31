@@ -28,7 +28,7 @@ Below are my special collection of css gradient over the years of making web des
 
 ---
 
-#### See [FX-Gradient Previewer](https://fx-gradient-previewer.netlify.com/).
+### See [FX-Gradient Previewer](https://fx-gradient-previewer.netlify.com/).
 
 > **(!!)** this preset has completed
 
