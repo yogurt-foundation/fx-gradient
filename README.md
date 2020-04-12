@@ -60,7 +60,17 @@ let's take an example of `Warm Flame` gradient, this add gradient to the element
 ```
 ---
 
-## _build
+## _using via cdn
+
+```html
+<link defer href="https://unpkg.com/fx-gradient@1.0.0/dist/fx-gradient.css" 
+      rel="stylesheet"
+      rel="preload"
+      as="style"
+      media="all">
+```
+
+## _using via build
 
 ``` bash
 # install dependencies
