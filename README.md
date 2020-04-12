@@ -6,6 +6,9 @@
   <img src="https://badgen.net/github/release/yogurt-foundation/fx-gradient">
   <img src="https://badgen.net/github/releases/yogurt-foundation/fx-gradient">
   <img src="https://badgen.net/github/branches/yogurt-foundation/fx-gradient">
+  <img src="https://badgen.net/npm/dw/fx-gradient">
+  <img src="https://badgen.net/npm/dm/fx-gradient">
+  <img src="https://badgen.net/npm/dy/fx-gradient">
   <img src="https://badgen.net/github/forks/yogurt-foundation/fx-gradient">
   <img src="https://badgen.net/github/stars/yogurt-foundation/fx-gradient">
   <img src="https://badgen.net/github/watchers/yogurt-foundation/fx-gradient">
